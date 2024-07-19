@@ -28,7 +28,7 @@ This project is an implementation of the classic dining philosophers problem usi
 1. Clone the repository:
    ```sh
    git clone https://github.com/hussienK/Philosophers.git
-   cd philosophers/philo
+   cd Philosophers/philo
 2. Compile the program:
    ```sh
    make
